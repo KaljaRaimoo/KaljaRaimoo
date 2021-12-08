@@ -1,7 +1,6 @@
 - 👋 Hei olen @KaljaRaimoo
 - 👀 Minua kutsutaan Raimoksi.
 - 👷‍♂️ Olen harjoitellut tekemään fivem palvelimia noin 8kk.
-- 👷‍♂️ Tänne tulen päivittelemään zap esx fullpackista parannettuja versioita sekä että suomennettuja.
 - 📫 Jos sinulla ilmenee näissä päivityksissä joskus ongelmia tai löydät bugeja parhaiten saat minut kiinni discordista nimellä: KaljaRaimo#4694.
 
 <!---
